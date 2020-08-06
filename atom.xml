@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ghost.z9.gs</id>
+    <id>https://deepsea-x.github.io</id>
     <title>Gridea</title>
-    <updated>2020-08-06T11:40:35.546Z</updated>
+    <updated>2020-08-06T11:50:42.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ghost.z9.gs"/>
-    <link rel="self" href="https://ghost.z9.gs/atom.xml"/>
+    <link rel="alternate" href="https://deepsea-x.github.io"/>
+    <link rel="self" href="https://deepsea-x.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://ghost.z9.gs/images/avatar.png</logo>
-    <icon>https://ghost.z9.gs/favicon.ico</icon>
+    <logo>https://deepsea-x.github.io/images/avatar.png</logo>
+    <icon>https://deepsea-x.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://ghost.z9.gs/post/hello-gridea/</id>
-        <link href="https://ghost.z9.gs/post/hello-gridea/">
+        <id>https://deepsea-x.github.io/post/hello-gridea/</id>
+        <link href="https://deepsea-x.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
